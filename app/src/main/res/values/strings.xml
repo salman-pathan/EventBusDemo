@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Event Bus Demo</string>
+    <string name="total_score">Total Score</string>
+    <string name="increment">Increment</string>
+    <string name="initial_score">0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
